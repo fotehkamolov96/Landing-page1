@@ -1,0 +1,30 @@
+@media only screen and (max-width: 992px){
+    .wrapper{
+        width: 750px;
+        background-color: #10002b;
+        margin: 50px auto;
+    }
+
+    .header {
+        background-color: #10002b;
+
+        #logo{
+            margin-top: 4px;
+        }
+        .menu{
+         
+            margin-top: 124px;
+        }
+    }
+   
+
+
+}
+
+
+
+@media only screen and (max-width: 768px){
+    .wrapper{
+        width: 450px;
+    }
+}
